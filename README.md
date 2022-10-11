@@ -1,4 +1,4 @@
-[![Python application](https://github.com/antsermen/decide/actions/workflows/django.yml/badge.svg)](https://github.com/antsermen/decide/actions/workflows/django.yml)(https://www.codacy.com/app/Wadobo/decide?utm_source=github.com&utm_medium=referral&utm_content=wadobo/decide&utm_campaign=Badge_Coverage)
+[![Python application](https://github.com/antsermen/decide/actions/workflows/django.yml/badge.svg)](https://github.com/antsermen/decide/actions/workflows/django.yml)
 
 Plataforma voto electrónico educativa
 =====================================
